@@ -67,7 +67,7 @@ git push origin main --follow-tags
 
 Entrar no link [https://github.com/user/repository/releases/new](https://github.com/leandrohago/pesquisa-cep/releases/new)
 
-Aqui você já escolhe a **tag** gerada para sua release e dar um título para sua release.
+Aqui você já escolhe a **tag** gerada para sua release e um título para sua release.
 
 Vou deixar aqui um **template** para padronizar as **releases**.
 ```md
