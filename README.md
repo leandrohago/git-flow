@@ -45,6 +45,7 @@ git push origin release/v0.0.1
 ```
 
 No GitHub iremos abrir um **pull request** da **branch** `release/v0.0.1` para `main` 
+
 **Obs:** Se necessário aguarde a aprovação do **pull request**, mas não feche o **pull request** diretamente pelo GitHub.
 
 # Finalizando o processo de release
